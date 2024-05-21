@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # boilerplate
 
 Standard development infrastructure and tooling to be used across repositories in an organization.
